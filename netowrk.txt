@@ -1,0 +1,12 @@
+,TAMID,AEPi,MREFA,BTG,IISE,TCG,ExpatSociety,PhiSig
+Hanono.Michael,1,1,0,0,1,0,1,0
+Matteo.Luis,1,0,0,0,0,1,0,0
+Bittar.Thiago,0,0,1,0,0,1,1,0
+Angel.Abe,0,1,0,1,0,0,0,0
+Tenenbaum.Ilan,0,0,1,0,0,0,0,1
+Bustamante.Luly,0,0,0,0,0,0,1,0
+Calderon.Jack,0,1,0,0,0,0,0,0
+Calderon.Jack,0,1,0,0,0,0,0,0
+Lopez.Julian,0,0,0,0,0,0,1,0
+Fedorov.Boris,1,1,0,0,0,0,0,0
+Villareal.Jimena,0,0,0,0,1,0,1,0
